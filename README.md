@@ -92,5 +92,7 @@ if __name__ == "__main__":
 •	This ensures that when you run the script, the main function is executed, and the packet sniffer starts.
 
 Output Result
+
  
+![Screenshot 2024-10-23 105921](https://github.com/user-attachments/assets/6330f279-6a11-4ff5-aa02-6c8016ec8c67)
 
